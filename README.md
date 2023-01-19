@@ -14,7 +14,7 @@
 </h3>
 
 
-I'm an graduation persuing student , I'm currently in my second year. I really enjoy learning languages like C,Java & Python , as well as  doing projects in frontend development.
+I'm an graduation persuing student , I'm currently in my second year. I really enjoy learning languages like C,Java & Python , as well as  doing projects in frontend development.<br>
 You can checkout my linkedin : https://www.linkedin.com/in/varun-mayilvaganan-662781234/
 
 ![](https://i.imgur.com/waxVImv.png)
