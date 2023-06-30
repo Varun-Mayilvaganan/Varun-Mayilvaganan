@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://tr.ee/RWWaYj7k01](https://tr.ee/RWWaYj7k01)
 
-- ⚡ Fun fact **Be Productive Always!**
+- ⚡ Fun fact **: Less Tension more Work!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
