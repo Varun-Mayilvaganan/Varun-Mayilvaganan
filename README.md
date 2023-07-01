@@ -9,7 +9,6 @@
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=An+Aspiring+learner+and+developer+🧑‍💻)](https://git.io/typing-svg)
-
 </h3>
 
 
@@ -28,6 +27,8 @@
 - 📄 Know about my experiences [https://tr.ee/RWWaYj7k01](https://tr.ee/RWWaYj7k01)
 
 - ⚡ Fun fact **: Less Tension more Work!**
+
+- [![trophy](https://github-profile-trophy.vercel.app/?username=varun-mayilvaganan)](https://github.com/varun-mayilvaganan/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
