@@ -28,7 +28,10 @@
 
 - ⚡ Fun fact **: Less Tension more Work!**
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=varun-mayilvaganan)](https://github.com/varun-mayilvaganan/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=varun-mayilvaganan)](https://github.com/varun-mayilvaganan/github-profile-trophy)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varun-mayilvaganan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
