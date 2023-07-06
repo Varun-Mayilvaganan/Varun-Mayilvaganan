@@ -57,9 +57,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>  </p>
 <br><br>
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-mayilvaganan&show_icons=true&locale=en&layout=compact" alt="varun-mayilvaganan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-mayilvaganan&show_icons=true&locale=en" alt="varun-mayilvaganan" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-mayilvaganan&show_icons=true&locale=en" alt="varun-mayilvaganan" /></p>-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-mayilvaganan&" alt="varun-mayilvaganan" /></p>
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;">
