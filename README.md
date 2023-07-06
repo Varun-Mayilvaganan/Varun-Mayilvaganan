@@ -34,7 +34,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-mayilvaganan&show_icons=true&theme=transparent)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-mayilvaganan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--this is the my skills section-->
 
