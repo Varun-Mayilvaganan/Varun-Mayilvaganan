@@ -35,6 +35,8 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-mayilvaganan&show_icons=true&theme=transparent)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-mayilvaganan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mettasurendhar&theme=modern-lilac)](https://github.com/MettaSurendhar)
+  
   <!--stats ended-->  
 <!--this is the my skills section-->
 
@@ -68,6 +70,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-mayilvaganan&show_icons=true&locale=en&layout=compact" alt="varun-mayilvaganan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-mayilvaganan&show_icons=true&locale=en" alt="varun-mayilvaganan" /></p>-->
 <!--My streaks-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-mayilvaganan&" alt="varun-mayilvaganan" /></p>
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;">
 
