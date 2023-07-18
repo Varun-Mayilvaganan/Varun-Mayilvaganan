@@ -16,7 +16,7 @@
 <img align="down" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="down"> <img src="https://komarev.com/ghpvc/?username=varun-mayilvaganan&label=Profile%20views&color=0e75b6&style=flat" alt="varun-mayilvaganan" /> </p>
 
-- 🌱 I’m currently learning Flutter,Firebase,Mobile App Development and Problem-Solving in python.
+- 🌱 I’m currently learning Flutter UI Development and Problem-Solving in python.
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/varunmayilvaganan11](https://linktr.ee/varunmayilvaganan11)
 
