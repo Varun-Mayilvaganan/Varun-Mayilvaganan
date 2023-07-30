@@ -37,12 +37,7 @@
   <a href="https://www.linkedin.com/in/varun-mayilvaganan-662781234/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-
-
-
-
-  <!-- ![](https://i.imgur.com/waxVImv.png) -->
+    <!-- ![](https://i.imgur.com/waxVImv.png) -->
   ---
   <h2>My Git-Hub Stats</h2>
   
@@ -56,8 +51,10 @@
   ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-mayilvaganan&layout=compact)
 
+
     <!-- ![](https://i.imgur.com/waxVImv.png) -->
   ---
+  
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=varun-mayilvaganan)](https://github.com/varun-mayilvaganan/github-profile-trophy)
   <br>
