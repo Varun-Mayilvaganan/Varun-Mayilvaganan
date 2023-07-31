@@ -50,7 +50,7 @@
 
   <!-- ![](https://i.imgur.com/waxVImv.png) -->
   ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-mayilvaganan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-mayilvaganan&layout=compact)
 
 
   <!-- ![](https://i.imgur.com/waxVImv.png) -->
