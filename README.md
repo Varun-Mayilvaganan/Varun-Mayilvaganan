@@ -52,8 +52,8 @@
   <!-- ![](https://i.imgur.com/waxVImv.png) -->
   ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varun-mayilvaganan)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <!-- ![](https://i.imgur.com/waxVImv.png) -->
