@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Varun-Mayilvaganan](https://www.quora.com/profile/Varun-Mayilvaganan)
 
-- 💬 Ask me about **Web-Development & frontend development**
+- 💬 Ask me about **Web-Development & App development**
 
 - 📫 How to reach me **varunmayilvaganan11@gmail.com**
 
