@@ -1,4 +1,4 @@
-![logo](https://github.com/Varun-Mayilvaganan/Varun-Mayilvaganan/blob/main/github-header-image%20(5).png)
+
 
 ![](https://i.imgur.com/waxVImv.png)
 ---
@@ -13,7 +13,7 @@
 </h3>
 
 
-<img align="down" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="profile.gif">
 <p align="down"> <img src="https://komarev.com/ghpvc/?username=varun-mayilvaganan&label=Profile%20views&color=0e75b6&style=flat" alt="varun-mayilvaganan" /> </p>
 <!--Mylearnings-->
 - 🌱 I’m currently learning Flutter and Problem-Solving in python.
