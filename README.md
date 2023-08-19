@@ -60,7 +60,8 @@
   ---
   
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=varun-mayilvaganan)](https://github.com/varun-mayilvaganan/github-profile-trophy)
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=varun-mayilvaganan&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
   <br>
 
   <!-- ![](https://i.imgur.com/waxVImv.png) -->
