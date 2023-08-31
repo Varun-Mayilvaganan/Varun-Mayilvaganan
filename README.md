@@ -13,7 +13,7 @@
 </h3>
 
 
-<img align="left" alt="coding" width="400" src="profile.gif">
+<img align="right" alt="coding" width="400" src="profile.gif">
 <p align="down"> <img src="https://komarev.com/ghpvc/?username=varun-mayilvaganan&label=Profile%20views&color=0e75b6&style=flat" alt="varun-mayilvaganan" /> </p>
 <!--Mylearnings-->
 - 🌱 I’m currently learning Flutter and Problem-Solving in python.
