@@ -7,7 +7,7 @@
 <!--this is the header-->
 
 
-<h3 align="center">
+<h3 align="left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=An+Aspiring+learner+and+developer+🧑‍💻)](https://git.io/typing-svg)
 </h3>
