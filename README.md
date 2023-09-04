@@ -1,4 +1,4 @@
-<!--portfolio-->
+<!--portfolio of my github profile-->
 
 ![](https://i.imgur.com/waxVImv.png)
 ---
