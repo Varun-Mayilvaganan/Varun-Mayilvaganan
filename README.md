@@ -16,7 +16,7 @@
 <img align="right" alt="coding" width="400" src="profile.gif">
 <p align="down"> <img src="https://komarev.com/ghpvc/?username=varun-mayilvaganan&label=Profile%20views&color=0e75b6&style=flat" alt="varun-mayilvaganan" /> </p>
 <!--Mylearnings-->
-- 🌱 I’m currently learning Flutter and Problem-Solving in python.
+- 🌱 I’m currently learning Flutter and Problem-Solving in Python.
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/varunmayilvaganan11](https://linktr.ee/varunmayilvaganan11)
 
