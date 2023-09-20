@@ -64,9 +64,6 @@
 
   <br>
 
-  <!-- ![](https://i.imgur.com/waxVImv.png) -->
-  ---
-  
 
   <!-- ![](https://i.imgur.com/waxVImv.png) -->
   ---
