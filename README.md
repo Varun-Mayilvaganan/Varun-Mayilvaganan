@@ -67,8 +67,6 @@
   <!-- ![](https://i.imgur.com/waxVImv.png) -->
   ---
   
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=varun-mayilvaganan&theme=modern-lilac)](https://github.com/Varun-Mayilvaganan)
 
   <!-- ![](https://i.imgur.com/waxVImv.png) -->
   ---
