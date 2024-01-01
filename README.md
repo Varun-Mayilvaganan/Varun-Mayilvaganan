@@ -98,4 +98,4 @@
 **Page Views**(Counting from 12th July 2023 ): ![Visitor Count](https://profile-counter.glitch.me/varun-mayilvaganan/count.svg)
 
 
-<p>Download My Resume <a href="https://d1fdloi71mui9q.cloudfront.net/Sq0YlCMuQTu3VNdVWhrg_Varun-s%20Resume%20(4)%20(1).pdf">Click Here!</a></p>
+<p>Download My Resume <a href="">Click Here!</a></p>
