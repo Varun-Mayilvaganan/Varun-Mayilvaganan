@@ -98,4 +98,4 @@
 **Page Views**(Counting from 12th July 2023 ): ![Visitor Count](https://profile-counter.glitch.me/varun-mayilvaganan/count.svg)
 
 
-<p>Download My Resume <a href="[Resume_Varun2024.pdf](https://github.com/Varun-Mayilvaganan/Varun-Mayilvaganan/blob/fec64e61a34f247377e1e012b76eee827df612ee/Resume_Varun2024.pdf)https://github.com/Varun-Mayilvaganan/Varun-Mayilvaganan/blob/fec64e61a34f247377e1e012b76eee827df612ee/Resume_Varun2024.pdf">Click Here!</a></p>
+<p>Download My Resume <a href="https://github.com/Varun-Mayilvaganan/Varun-Mayilvaganan/blob/fec64e61a34f247377e1e012b76eee827df612ee/Resume_Varun2024.pdf">Click Here!</a></p>
