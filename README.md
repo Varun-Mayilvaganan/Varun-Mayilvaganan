@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 ---
 <!--name section-->
-<h1 align="center">Hi 👋, I'm Varun</h1>
+<h1 align="center">Hi 👋 I'm Varun</h1>
 <!--this is the header-->
 
 
