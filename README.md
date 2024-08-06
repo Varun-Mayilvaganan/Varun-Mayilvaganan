@@ -36,8 +36,6 @@
 - 🌱 Currently learning Exploratory data analysis, Machine learning and problem solving with python.
 
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Varun-Mayilvaganan](https://www.quora.com/profile/Varun-Mayilvaganan)
-
 
 - 📫 How to reach me **varunmayilvaganan11@gmail.com*
 
@@ -113,4 +111,4 @@
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;">
 
 
-<p>Download My Resume <a href="https://drive.google.com/file/d/1g1qT7CwltaF_yq0szoRKRNr2ssYeEnmT/view?usp=drive_link">Click Here!</a></p>
+<p>Download My Resume <a href="Resume_Varun_M.pdf">Click Here!</a></p>
