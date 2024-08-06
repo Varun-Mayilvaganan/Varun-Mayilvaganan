@@ -26,25 +26,28 @@
 
 <br><br>
 
-<img align="right" alt="coding" width="400" src="profile.gif">
-<p align="down"> <img src="https://komarev.com/ghpvc/?username=varun-mayilvaganan&label=Profile%20views&color=0e75b6&style=flat" alt="varun-mayilvaganan" /> </p>
+<p align="center">
+  <img src="profile.gif" width="400" alt="coding"><br>
+  <img src="https://komarev.com/ghpvc/?username=varun-mayilvaganan&label=Profile%20views&color=0e75b6&style=flat" alt="varun-mayilvaganan">
+</p>
+
 <!--Mylearnings-->
-
-- 🔭 I’m working as Research Intern at MITACS, Canada.
-
   
-- 🌱 Currently learning Exploratory data analysis, Machine learning and problem solving with python.
-
-
-
-- 📫 Reach out *varunmayilvaganan11@gmail.com*.
-
+  - 🔭 I’m working as Research Intern at MITACS, Canada.
   
-- ⚡ In my free time I use to watch, create contents and play badminton.
+    
+  - 🌱 Currently learning Exploratory data analysis, Machine learning and problem solving with python.
   
+  
+  
+  - 📫 Reach out *varunmayilvaganan11@gmail.com*.
+  
+    
+  - ⚡ In my free time I use to watch, create contents and play badminton.
+    
+  
+  - 🌟 Fun fact: **Less Tension, More Work!**
 
-- 🌟 Fun fact: **Less Tension, More Work!**
-  
 
 
 <br>
