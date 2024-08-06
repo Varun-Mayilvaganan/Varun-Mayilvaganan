@@ -37,10 +37,10 @@
 
 
 
-- 📫 How to reach me **varunmayilvaganan11@gmail.com*
+- 📫 How to reach me **varunmayilvaganan11@gmail.com*.
 
   
-- ⚡ In my free time I use to watch, create contents and play badminton
+- ⚡ In my free time I use to watch, create contents and play badminton.
   
 
 - 🌟 Fun fact: **Less Tension, More Work!**
