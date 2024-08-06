@@ -37,7 +37,7 @@
 
 
 
-- 📫 How to reach me **varunmayilvaganan11@gmail.com*.
+- 📫 Reach out *varunmayilvaganan11@gmail.com*.
 
   
 - ⚡ In my free time I use to watch, create contents and play badminton.
