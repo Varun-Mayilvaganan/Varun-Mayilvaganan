@@ -33,7 +33,8 @@
 
 <!--Mylearnings-->
   
-  - 🔭 I’m working as Research Intern at MITACS, Canada.
+  - 🔭 Research Intern - MITACS GRI'24, Canada.
+  
   
     
   - 🌱 Currently learning Exploratory data analysis, Machine learning and problem solving with python.
