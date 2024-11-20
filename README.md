@@ -12,7 +12,7 @@
 
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=An+Aspiring+learner🧑‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=An+Aspiring+learner+and+developer+🧑‍💻)](https://git.io/typing-svg)
 </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/varun-mayilvaganan-662781234/" target="_blank" style="margin-right: 10px;">
