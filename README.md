@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Varun-Mayilvaganan&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-mayilvaganan&theme=omni&hide_border=true" alt="Varun-Mayilvaganan's GitHub Stats" />
 </div>
 
 <div align="center">
