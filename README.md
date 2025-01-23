@@ -33,21 +33,21 @@
 
 <!--Mylearnings-->
   
-  - 🔭 Research Intern - MITACS GRI'24, Canada.
+   🔭 Research Intern - MITACS GRI'24, Canada.
   
   
     
-  - 🌱 Currently learning Exploratory data analysis, Machine learning and problem solving with python.
+   🌱 Currently learning Exploratory data analysis, Machine learning and problem solving with python.
   
   
   
-  - 📫 Reach out *varunmayilvaganan11@gmail.com*.
+   📫 Reach out *varunmayilvaganan11@gmail.com*.
   
     
-  - ⚡ In my free time I use to watch, create contents and play badminton.
+   ⚡ In my free time I use to watch, create contents and play badminton.
     
   
-  - 🌟 Fun fact: **Less Tension, More Work!**
+   🌟 Fun fact: **Less Tension, More Work!**
 
 
 
