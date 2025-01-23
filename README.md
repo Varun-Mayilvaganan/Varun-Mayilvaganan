@@ -69,8 +69,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-mayilvaganan&theme=omni&hide_border=true" alt="Varun-Mayilvaganan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varun-mayilvaganan&theme=holi&show_icons=true" alt="Anurag's GitHub stats"/>
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/64922628/127711314-68b9a5bc-5741-4fe1-a215-43c7b3e8d07a.gif" width="50%" />
