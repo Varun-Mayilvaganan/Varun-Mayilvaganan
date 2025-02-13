@@ -1,10 +1,7 @@
-<div align="center">
-  <img height="200" width="100%" src="My_Header.png"  />
-</div>
+
 <!--portfolio of my github profile-->
 
-![](https://i.imgur.com/waxVImv.png)
----
+![](My_header.png)
 <!--name section-->
 <h1 align="center">Hi 👋 I'm Varun</h1>
 <!--this is the header-->
