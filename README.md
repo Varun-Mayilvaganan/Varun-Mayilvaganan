@@ -34,7 +34,7 @@
 
 🧪 Experience highlights:
 - Mitacs Globalink Research Intern (Canada): worked on robustness and generalization in phishing detection systems under evolving attacks
-- Assistant Data Engineer: build Python and SQL pipelines, handle data validation and transformations, generate automated Excel reports, and experiment with AI-assisted reporting
+- Assistant Data Engineer: built Python and SQL pipelines, handle data validation and transformations, generate automated Excel reports, and experiment with AI-assisted reporting
 - Undergraduate thesis: explored how visual information can condition music generation in a multimodal setting
 
 🧭 How I like to work (before starting any task):
