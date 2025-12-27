@@ -2,10 +2,6 @@
 <!--portfolio of my github profile-->
 
 ![](Varun-Readme.png)
-<!--name section-->
-<h1 align="center">Hi 👋 I'm Varun</h1>
-<!--this is the header-->
-
 
 <h3 align="center">
 
@@ -28,64 +24,28 @@
   <img src="https://komarev.com/ghpvc/?username=varun-mayilvaganan&label=Profile%20views&color=0e75b6&style=flat" alt="varun-mayilvaganan">
 </p>
 
-<!--Mylearnings-->
-  
-   🔭 Research Intern - MITACS GRI'24, Canada.
-  
-  
-    
-   🌱 Currently learning Exploratory data analysis, Machine learning and problem solving with python.
-  
-  
-  
-   📫 Reach out *varunmayilvaganan11@gmail.com*.
-  
-    
-   ⚡ In my free time I use to watch, create contents and play badminton.
-    
-  
-   🌟 Fun fact: **Less Tension, More Work!**
+🔭 What I work on & explore:
+- Building and analyzing end-to-end data and ML systems in real-world settings
+- Studying how ML models behave under noise, distribution shift, and imperfect data
+- Investigating failure modes and robustness in security-critical ML systems
+- Exploring representation learning and embedding stability across modalities
+- Using generative models for data augmentation and robustness analysis
+- Evaluating models beyond accuracy, focusing on reliability and brittleness
+
+🧪 Experience highlights:
+- Research Intern, Mitacs Globalink (Canada): studied robustness and generalization in phishing detection under evolving attack distributions
+- Assistant Data Engineer: built Python and SQL-based data pipelines, ensure data quality through validation and transformation, generate automated Excel reports, and experiment with AI-assisted reporting tools.
+- Undergraduate thesis: explored multimodal representation alignment in image-conditioned music generation
+
+🛠 How I like to work:
+- System-building as a tool for experimentation, not just deployment
+- Controlled experiments, ablations, and failure analysis
+- Curiosity-driven, research-oriented problem solving
 
 
+<!-- ![](https://i.imgur.com/waxVImv.png) -->
+---
 
-<br>
-<h3 align="left">🔥   My Stats :</h3>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varun-mayilvaganan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  <!-- ![](https://i.imgur.com/waxVImv.png) -->
-  ---
-  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varun-Mayilvaganan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/64922628/127711314-68b9a5bc-5741-4fe1-a215-43c7b3e8d07a.gif" width="50%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun-mayilvaganan&theme=holi&show_icons=true" alt="Anurag's GitHub stats"/>
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/64922628/127711314-68b9a5bc-5741-4fe1-a215-43c7b3e8d07a.gif" width="50%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Varun-Mayilvaganan&theme=onestar&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-
-
-
-
-  <!-- ![](https://i.imgur.com/waxVImv.png) -->
-  ---
-
-  
 <h2>Tools & Languages I code With!</h2>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,python,wordpress,dart&perline=10)](https://github.com/Varun-Mayilvaganan)
