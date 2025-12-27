@@ -25,22 +25,22 @@
 </p>
 
 🔭 What I work on & explore:
-- Building and analyzing end-to-end data and ML systems in real-world settings
-- Studying how ML models behave under noise, distribution shift, and imperfect data
-- Investigating failure modes and robustness in security-critical ML systems
-- Exploring representation learning and embedding stability across modalities
-- Using generative models for data augmentation and robustness analysis
-- Evaluating models beyond accuracy, focusing on reliability and brittleness
+- Building end-to-end data and ML systems and understanding how they behave in real-world settings
+- Looking at what happens to models when data is noisy, incomplete, or shifts over time
+- Studying failures and robustness, especially in security-related ML systems
+- Exploring how representations and embeddings change across different data modalities
+- Using generative models to improve data diversity and test model robustness
+- Thinking beyond accuracy and focusing on reliability and real-world behavior
 
 🧪 Experience highlights:
-- Research Intern, Mitacs Globalink (Canada): studied robustness and generalization in phishing detection under evolving attack distributions
-- Assistant Data Engineer: built Python and SQL-based data pipelines, ensure data quality through validation and transformation, generate automated Excel reports, and experiment with AI-assisted reporting tools.
-- Undergraduate thesis: explored multimodal representation alignment in image-conditioned music generation
+- Mitacs Globalink Research Intern (Canada): worked on robustness and generalization in phishing detection systems under evolving attacks
+- Assistant Data Engineer: build Python and SQL pipelines, handle data validation and transformations, generate automated Excel reports, and experiment with AI-assisted reporting
+- Undergraduate thesis: explored how visual information can condition music generation in a multimodal setting
 
-🛠 How I like to work:
-- System-building as a tool for experimentation, not just deployment
-- Controlled experiments, ablations, and failure analysis
-- Curiosity-driven, research-oriented problem solving
+🧭 How I like to work (before starting any task):
+- I first try to clearly understand the problem and the data involved
+- I prefer building simple, modular systems to see how decisions affect the full pipeline
+- I iterate through small experiments, learning from failures and refining the approach
 
 
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
