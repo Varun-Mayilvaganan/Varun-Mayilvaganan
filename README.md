@@ -1,7 +1,7 @@
 
 <!--portfolio of my github profile-->
 
-![](My_header.png)
+![](Varun-Readme.png)
 <!--name section-->
 <h1 align="center">Hi 👋 I'm Varun</h1>
 <!--this is the header-->
